@@ -1,0 +1,2 @@
+# Pixel8tor
+Take two on a pixel art application; this application allows you to choose the grid size, pick any color, pick a color already in use on the sheet(via eyedropper) and upon saves exports the file to png. The png excludes empty space such as the background and erased pixels. Also added a tab feature, allowing for the quick access of the the last 20 items made and or edited in the application. Still a WIP, however works well enough to use.
